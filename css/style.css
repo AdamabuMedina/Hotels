@@ -219,7 +219,7 @@ input:focus {
   border: none;
   border-radius: 15px;
   background-color: #f1f1f1;
-  background-image: url(/img/png/search.png);
+  background-image: url(../img/png/search.png);
   background-repeat: no-repeat;
   background-position: center;
   font-size: 16px;
@@ -319,7 +319,7 @@ input[placeholder] {
   width: 585px;
   min-height: 540px;
   border-radius: 12px;
-  background-image: url(/img/png/spec.png);
+  background-image: url(../img/png/spec.png);
   background-repeat: no-repeat;
 }
 
@@ -572,7 +572,7 @@ input[placeholder] {
   display: flex;
   flex-direction: column-reverse;
   padding-bottom: 55px;
-  background-image: url(/img/jpg/41.jpg);
+  background-image: url(../img/jpg/41.jpg);
   align-items: center;
   vertical-align: bottom;
   width: 372px;
@@ -732,7 +732,7 @@ input[placeholder] {
 .footer-container {
   min-height: 400px;
   margin-top: 23px;
-  background-image: url(/img/png/Фонфутер.png);
+  background-image: url(../img/png/Фонфутер.png);
   background-repeat: no-repeat;
   border-radius: 12px;
 }
